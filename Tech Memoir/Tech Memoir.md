@@ -1,4 +1,4 @@
-**Tech Memoirs**  
+**Tech Memoir**  
 Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3  
 Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3  
 Electronic Components . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3  
@@ -32,7 +32,7 @@ Forth OS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stoic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11  
 Pascal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11  
 Pascal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11  
-1Fortran . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11  
+1Fortran . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11  
 SNOBALL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11  
 PPU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12  
 PPU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12  
@@ -68,8 +68,8 @@ Legacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Legacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20  
 Cpu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21  
 Scoreboard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21  
-2Peripheral Processors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22  
-2Peripheral Processors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22  
+2Peripheral Processors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22  
+2Peripheral Processors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22  
 Dead Start - 166 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23  
 The Control Data 7600 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24  
 The Control Data 7600 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24  
@@ -83,7 +83,7 @@ to transmit and receive signals over long distances.
 1. Electronic Components: The fundamental building blocks of electronic de-  
 vices, comprising various components such as resistors, capacitors, transis-  
 tors, and vacuum tubes.  
-3**Electronic Education**  
+3**Electronic Education**  
 1. Electronic Education: The field dedicated to designing, developing, and  
 testing electronic systems and devices.  
 **Computers**  
@@ -95,7 +95,7 @@ ment of software for computers capable of performing a wide range of
 tasks.  
 **Web**  
 1. Web:  
-4**Radio Journeys**  
+4**Radio Journeys**  
 *Work In Process*  
 My radio journey commenced with the family multi band radio that included some  
 amateur radio and foreign broadcast bands. I particularly enjoyed listening to Voice of  
@@ -108,13 +108,13 @@ ing a crystal radio able to receive local AM signals without external power.
 Studying and passing FCC tests for novice and general amateur radio licenses, with a  
 focus on Morse Code practicing reception and transmission using a homemade tran-  
 sistor audio oscillator and Morse key.  
-5**Commercial License**  
+5**Commercial License**  
 My next endeavor was to prepare for and take the Federal Communications Commis-  
 sion test for a First Class Commercial license. This license is essential for individuals re-  
 sponsible for operating and maintaining broadcast transmitters, particularly in roles  
 such as chief engineer at a broadcast station or in work related to television transmit-  
 ters.  
-6**Electronic Components**  
+6**Electronic Components**  
 *Work In Process*  
 The journey began with receiving an Allied Electronics catalog, sparking interest in  
 both familiar and new components.  
@@ -129,7 +129,7 @@ The Internet and Artificial Intelligence are transformative for technology learn
 replacing the manual collection and analysis of information from varied sources.  
 Utilizing an RSS (Really Simple Syndication) Internet application daily enables track  
 technologies of interest.  
-7**Tech Education**  
+7**Tech Education**  
 **Junior College**  
 My academic journey in electronic engineering commenced during my enrollment at  
 a technology junior college.  
@@ -144,7 +144,7 @@ four-year Electronics Engineering Bachelor Degree program.
 **Math and Science**  
 In parallel with Electronic Engineering classes, mathematics and physics classes were  
 aligned with Electronic Engineering theory classes  
-8**Circuit Analysis Software**  
+8**Circuit Analysis Software**  
 An intriguing aspect of one class was to describe a circuit to an electronic circuit  
 analysis software program that analyzed circuits and printed out computed parame-  
 ters. The results of the circuit I described were a significant revelation for me.  
@@ -161,7 +161,7 @@ The final year of Electronic Engineering classes included designing, developing,
 documenting a Senior Project before graduation.  
 I developed a Fortran program using Fourier transforms to analyze waveforms,  
 with verification using lab instruments, and oscilloscope calibration.  
-9**Software**  
+9**Software**  
 **Abstracted Microcontroller**  
 **Instruction Execution**  
 **Controlled The Cpu**  
@@ -171,7 +171,7 @@ Drive Abstract Microcontroller with the instructions generated by higher abstrac
 programming languages.  
 **Forth OS**  
 Reverse Polish Notation  
-10**Stoic**  
+10**Stoic**  
 Based On Forth  
 Written In C  
 Pdp-11  
@@ -181,9 +181,9 @@ Demonstrated Tested Hardware
 **SNOBALL**  
 Eliza  
 First Chatbot  
-11**PPU**  
+11**PPU**  
 **Markdown**  
-12**Software**  
+12**Software**  
 *Work in process*  
 **Abstracted Microcontroller**  
 **Instruction Execution**  
@@ -192,7 +192,7 @@ First Chatbot
 **Assembly**  
 Drive Abstract Microcontroller with the instructions generated by higher abstracted  
 programming languages.  
-13**Forth OS**  
+13**Forth OS**  
 Reverse Polish Notation  
 **Stoic**  
 Based On Forth  
@@ -204,9 +204,9 @@ Demonstrated Tested Hardware
 **SNOBALL**  
 Eliza  
 First Chatbot  
-14**PPU**  
+14**PPU**  
 **Markdown**  
-15**Computers**  
+15**Computers**  
 *Work In Process*  
 **Overview**  
 **Abstraction**  
@@ -220,8 +220,8 @@ Microcode acts as an abstraction layer between the machine code instructions a
 programmer writes and the underlying hardware signals  
 Microcode is a specialized type of firmware embedded within the CPU itself. It  
 provides low-level instructions that translate complex machine instructions into sim-  
-16pler, more fundamental operations that control the CPU’s internal circuits. Essentially,  
-16pler, more fundamental operations that control the CPU’s internal circuits. Essentially,  
+16pler, more fundamental operations that control the CPU’s internal circuits. Essentially,  
+16pler, more fundamental operations that control the CPU’s internal circuits. Essentially,  
 microcode acts as an intermediary, converting higher-level CPU instructions into de-  
 tailed control signals that direct hardware behavior. It is stored in a special control  
 memory inside the processor  
@@ -232,8 +232,8 @@ memory inside the processor
 **The Control Data 6600**  
 [DESIGN OF A COMPUTER. THE CONTROL DATA 6600 ]  
 My first computer job was running and programming this computer.  
-17*Seymour Cray was renowned for developing the CDC 6600 at Control Data*  
-17*Seymour Cray was renowned for developing the CDC 6600 at Control Data*  
+17*Seymour Cray was renowned for developing the CDC 6600 at Control Data*  
+17*Seymour Cray was renowned for developing the CDC 6600 at Control Data*  
 *Corporation, where his innovations in architecture—such as instruction pipe-*  
 *lining, parallel execution, and the use of multiple peripheral processors—trans-*  
 *formed high-performance computing. The CDC 6600, introduced in 1964, is*  
@@ -241,7 +241,7 @@ My first computer job was running and programming this computer.
 *faster than any prior computer, executing up to 3 million instructions per sec-*  
 *ond. Cray's simplified and efficient designs also anticipated concepts found in*  
 *today's RISC processors.*  
-18**Architectural Innovations**  
+18**Architectural Innovations**  
 *Cray focused on minimizing component size and wiring length, reducing sig-*  
 *nal delays and allowing for faster clock speeds (the CPU operated at 10 MHz,*  
 *far beyond most contemporaries).*  
@@ -259,8 +259,8 @@ My first computer job was running and programming this computer.
 *cycles at higher speeds.*  
 *He innovated assembly methods, using "cordwood" module construction*  
 *to densely pack circuitry and keep wiring short, further boosting performance.*  
-19*Cray developed a robust cooling system using Freon (and in later designs,*  
-19*Cray developed a robust cooling system using Freon (and in later designs,*  
+19*Cray developed a robust cooling system using Freon (and in later designs,*  
+19*Cray developed a robust cooling system using Freon (and in later designs,*  
 *liquid nitrogen) for the modules, reducing thermal noise and ensuring reliabili-*  
 *ty at high speeds.*  
 **Design Philosophy and Team**  
@@ -278,7 +278,7 @@ My first computer job was running and programming this computer.
 *Cray’s methods—parallel processing, simplified instruction sets, extreme*  
 *physical and electrical efficiency—set foundations for future supercomputers*  
 *and inspired industry rivals.*  
-20*Cray's meticulous focus on speed, simplicity, and parallelism—while lever-*  
+20*Cray's meticulous focus on speed, simplicity, and parallelism—while lever-*  
 *aging groundbreaking transistor and cooling technology—made the CDC 6600*  
 *a quantum leap for computing performance.*  
 **Cpu**  
@@ -298,7 +298,7 @@ the operating system for the 6600 provides overall control of job scheduling,
 allocation of CPU and storage, and the control of Input and Output.”  
 **Scoreboard**  
 “A unique and essential part of the 6600 Central Processor control is the  
-21Unit and Register Reservation Control, or the Scoreboard. What is intended by this  
+21Unit and Register Reservation Control, or the Scoreboard. What is intended by this  
 design is the simultaneous operation of functional units on a single instruction stream.  
 Many operations in these units are quite independent of others, due to the relative  
 simplicity of the instructions. It is often particularly apparent that a sequence of arith-  
@@ -324,8 +324,8 @@ Buffering data between asynchronous devices.
 Interrupting the central processor for execution of priority tasks.  
 This list is not exhaustive but illustrates the nature of the processing assigned to the  
 ten small processors in the 6600 Computer.  
-22These Peripheral and Control Processors, or PPU’s, are constructed within the main  
-22These Peripheral and Control Processors, or PPU’s, are constructed within the main  
+22These Peripheral and Control Processors, or PPU’s, are constructed within the main  
+22These Peripheral and Control Processors, or PPU’s, are constructed within the main  
 frame cabinet of the 6600. This provides convenient use of identical logic and storage  
 modules as in the central processor and central storage plus the shared use of the  
 power and cooling system. It also allows a unique form of design, called the “barrel.”  
@@ -342,7 +342,7 @@ A second assumption is made that a direct entry of “machine language” progra
 is possible from these devices. To activate the DEAD START sequence, the 6600 cabi-  
 net contains a panel containing several control switches and a 12 x 12 matrix of  
 switches.  
-23**The Control Data 7600**  
+23**The Control Data 7600**  
 *The CDC 7600 was a landmark supercomputer designed by Seymour Cray for*  
 *Control Data Corporation and introduced in 1969, achieving top global com-*  
 *puting speeds for much of the 1970s. It succeeded the CDC 6600, retaining*  
@@ -350,7 +350,7 @@ switches.
 *for its innovative hardware engineering and influence on later CPU design*  
 *principles.*  
 *Key technical features include:*  
-24*Performance: Achieved speeds exceeding 10 MIPS (millions of instructions*  
+24*Performance: Achieved speeds exceeding 10 MIPS (millions of instructions*  
 *per second), with floating-point throughput up to 40 megaflops. It typically ran*  
 *five times faster than the CDC 6600.*  
 *Memory: Utilized a small-core memory of 65,536 60-bit words with a 27-*  
